@@ -1,0 +1,3 @@
+src_table=employee
+src_fields=lname,age,designation
+tgt_fields=LName,Age,Designation
